@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello World!
-- 👋 Hi, I’m Rhiana.
+- 👋🏾 Hi, I’m Rhiana.
 - 🎓 CS'23 at [Ashesi University](https://www.ashesi.edu.gh)
+- 👩🏾‍💻 Software Engineer Intern at [GenKey](https://www.genkey.com/)
 - 👀 I’m interested in DevOps Engineering, Site Reliability Engineering, and Information Security.
 - 🌱 I’m currently learning Spring Boot and Jenkins.
 <!-- - 💞️ I’m looking to collaborate on ... -->
