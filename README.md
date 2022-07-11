@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/rhianalatifah"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/coddessug"><img src="https://skillicons.dev/icons?i=twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### My Stats
+## My Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trhiana&theme=algolia)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=trhiana&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trhiana&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
