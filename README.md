@@ -13,9 +13,9 @@
 <a href="https://www.twitter.com/coddessug"><img src="https://skillicons.dev/icons?i=twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### My Stats
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rhiana-Thelemaque&theme=algolia)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=Rhiana-Thelemaque&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhiana-Thelemaque&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trhiana&theme=algolia)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=trhiana&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trhiana&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 trhiana/trhiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
