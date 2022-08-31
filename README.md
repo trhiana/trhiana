@@ -4,7 +4,7 @@
 - 👋🏾 Hi, I’m Rhiana.
 - 🎓 CS'23 at [Ashesi University](https://www.ashesi.edu.gh)
 - 👩🏾‍💻 Software Engineer Intern at [GenKey](https://www.genkey.com/)
-- 👀 I’m interested in DevOps Engineering, Site Reliability Engineering, and Information Security.
+- 👀 I’m interested in DevOps Engineering, and Information Security.
 - 🌱 I’m currently learning Spring Boot and Jenkins.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
