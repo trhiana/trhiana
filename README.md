@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/rhianalatifah"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tools and Technologies 💻
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,linux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## My Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trhiana&theme=algolia)](https://git.io/streak-stats)
