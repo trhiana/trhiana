@@ -3,18 +3,17 @@
 ## Hello World!
 - 👋🏾 Hi, I’m Rhiana.
 - 🎓 CS'23 at [Ashesi University](https://www.ashesi.edu.gh)
-<!-- - 👩🏾‍💻 Software Engineer Intern at [GenKey](https://www.genkey.com/) -->
-- 👀 I’m interested in DevOps Engineering, and Information Security.
-- 🌱 I’m currently learning machine learning.
+- 👩🏾‍💻 Systems Engineer
+- 👀 I’m interested in DevOps Engineering and Information Security.
+<!-- - 🌱 I’m currently learning machine learning. -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
 ## Reach me 📫
 <a href="https://www.linkedin.com/in/rhianalatifah"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/coddessug"><img src="https://skillicons.dev/icons?i=twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tools and Technologies 💻
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode,linux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,linux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## My Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trhiana&theme=algolia)](https://git.io/streak-stats)
